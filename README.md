@@ -19,3 +19,6 @@
 6. 점퍼 케이블
 7. 시간 rtc ds1302
 8. 블루투스 HC-06
+
+## 사진
+<img src="https://user-images.githubusercontent.com/84177301/147776674-a48ced6a-3718-4705-a771-0e1f7fdfcf77.jpg" width="350" height="200"/>
