@@ -11,19 +11,10 @@
 7. 완성
 
 ## 재료
-1. 포맥스, 납땜기판
+1. 포맥스, 브레드보드
 2. 아두이노 nano
-3. Led, 2kΩ 저항
-4. lcd screen 16*2
-5. 버튼
-6. 점퍼 케이블
-7. 시간 rtc ds1302
-8. 블루투스 HC-06
-
-## 사진
-<img src="https://user-images.githubusercontent.com/84177301/147776674-a48ced6a-3718-4705-a771-0e1f7fdfcf77.jpg" width="350" height="200"/>
-rtc 모듈 작동 사진
-
-
-<img src="https://user-images.githubusercontent.com/84177301/147777415-7d7b28f0-e923-43b0-8b71-e098f7e3cfc2.jpg" width="320" height="700"/>
-블루투스 연동 사진
+3. 점퍼 케이블
+4. 블루투스 HC-06
+5. 서보모터
+6. 6V 외부전력
+7. 자체 제작 제어 앱
